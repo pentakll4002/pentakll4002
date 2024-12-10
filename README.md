@@ -1,8 +1,6 @@
 # 💫About Me :
-🎓 Currently studying at UIT (University of Information Technology - VNUHCM)  
-<br>  
-🔍 Looking for challenges to improve myself further  
-<br>  
+🎓 Currently studying at UIT (University of Information Technology - VNUHCM)                                                            
+🔍 Looking for challenges to improve myself further                                                                            
 😄 Fun fact about me: I smile a lot
 
 ## 🌐Socials
