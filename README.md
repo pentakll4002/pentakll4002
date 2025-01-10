@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%a2n-thi%c3%aan-45ba6733a/?trk=opento_sprofile_details" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%a2n-thi%c3%aan-45ba6733a/?trk=opento_sprofile_details" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ân-thiên-45ba6733a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ân-thiên-45ba6733a" height="30" width="40" /></a>
 <a href="https://kaggle.com/pentakll2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pentakll2004" height="30" width="40" /></a>
 <a href="https://fb.com/dthienan.0906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dthienan.0906" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pentakll4002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pentakll4002" height="30" width="40" /></a>
