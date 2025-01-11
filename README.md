@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pentakll4002&" alt="pentakll4002" /></p>
 
-![snake gif](https://github.com/pentakll4002/pentakll4002/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pentakll4002/pentakll4002/blob/output/github-contribution-grid-snake2.svg)
