@@ -25,4 +25,8 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Sử dụng PAT nếu cần
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Sử dụng PAT nếu cần
+
+      # Set output using environment file
+      - name: Set output
+        run: echo "MY_OUTPUT=value" >> $GITHUB_ENV
