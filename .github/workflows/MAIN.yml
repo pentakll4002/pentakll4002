@@ -25,11 +25,11 @@ jobs:
 
       # Commit and Push Changes
       - name: Commit and Push Changes
-        uses: github-actions-x/commit@v2
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
           commit_message: "Update snake animation"
+          branch: master
+          file_pattern: dist/*
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
