@@ -27,6 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Sử dụng PAT nếu cần
 
-      # Set output using environment file
+      # Set output using environment file (replace set-output)
       - name: Set output
         run: echo "MY_OUTPUT=value" >> $GITHUB_ENV
