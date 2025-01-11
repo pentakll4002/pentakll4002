@@ -25,7 +25,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Sử dụng PAT nếu cần
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Sử dụng Personal Access Token (PAT)
 
       # Set output using environment file (replace set-output)
       - name: Set output
