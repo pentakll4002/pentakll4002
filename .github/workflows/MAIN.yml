@@ -1,32 +1,29 @@
 name: Generate Snake
 
 on:
-  # Manually triggered
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04 # Chỉ định phiên bản runner cụ thể
+    runs-on: ubuntu-22.04
 
     steps:
-      # Check out the repository
       - uses: actions/checkout@v2
 
-      # Generate the snake animation
-      - uses: Platane/snk@master
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2 # Dùng phiên bản mới nhất nếu có
         id: snake-gif
         with:
           github_user_name: pentakll4002
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Debugging - show status of the repository
-      - run: git status
+      - name: Debug Repository Status
+        run: git status
 
-      # Push the changes to the repository
-      - name: Push changes
-        if: success() # Chỉ push nếu các bước trước đó thành công
-        uses: ad-m/github-push-action@master
+      - name: Push Changes
+        if: success()
+        uses: ad-m/github-push-action@v2 # Sử dụng phiên bản mới
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
