@@ -66,8 +66,6 @@
   <img
     src="https://vitejs.dev/logo.svg"
     alt="vite"
-    width="40"
-    height="40"
   />
 </a>
 
