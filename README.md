@@ -66,6 +66,15 @@
   </a>
 </p>
 
+<a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+  <img
+    src="https://vitejs.dev/logo.svg"
+    alt="vite"
+    width="40"
+    height="40"
+  />
+</a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pentakll4002&show_icons=true&locale=en&layout=compact" alt="pentakll4002" /></p>
 
