@@ -64,6 +64,11 @@
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
   </a>
+
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
+  </a>
+
 </p>
 
 
