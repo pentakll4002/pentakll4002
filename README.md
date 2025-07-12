@@ -6,6 +6,7 @@
   />
 </p>
 
+<div>
 <h1 align="center">Hi 👋, I'm Thiên Ân</h1>
 <h3 align="center">A passionate Data Science from VietNam</h3>
 
@@ -81,6 +82,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pentakll4002&show_icons=true&locale=en&layout=compact" alt="pentakll4002" /></p>
+
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pentakll4002&show_icons=true&locale=en" alt="pentakll4002" /></p>
 
