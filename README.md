@@ -78,6 +78,11 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
   </a>
 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="40" height="40"/>
+</a>
+
+
 </p>
 
 
