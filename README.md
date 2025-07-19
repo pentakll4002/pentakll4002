@@ -79,7 +79,7 @@
   </a>
 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height: 60px; object-fit: contain;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height: 40px; object-fit: contain;" />
 </a>
 
 </p>
