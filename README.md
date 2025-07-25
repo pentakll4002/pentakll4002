@@ -1,8 +1,5 @@
 <p align="center">
-  <img 
-    src="https://i.gifer.com/PDE.gif"
-    alt="Jack Nicholson sarcastic clap from The Shining"
-    style="max-width: auto; height: auto;"
+    <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
   />
 </p>
 
