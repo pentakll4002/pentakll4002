@@ -1,10 +1,24 @@
 <p align="center">
   <img 
     src="https://i.gifer.com/2GU.gif" 
-    alt="Coder GIF"
-    style="width: 1200px; height: auto;"
+    alt="Jack Nicholson sarcastic clap from The Shining"
+    style="max-width: 100%; height: auto;"
   />
 </p>
+
+<div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://gifer.com/embed/2GU" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+<p align="center">
+  <a href="https://gifer.com/2GU" target="_blank" rel="noopener noreferrer">via GIFER</a>
+</p>
+
 
 <div>
 <h1 align="center">Hi 👋, I'm Thiên Ân</h1>
