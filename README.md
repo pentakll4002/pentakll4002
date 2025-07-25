@@ -1,10 +1,11 @@
 <p align="center">
   <img 
-    https://i.gifer.com/PDE.gif
+    src="https://i.gifer.com/PDE.gif"
     alt="Jack Nicholson sarcastic clap from The Shining"
     style="width: 1200px; height: auto;"
   />
 </p>
+
 
 <div>
 <h1 align="center">Hi 👋, I'm Thiên Ân</h1>
