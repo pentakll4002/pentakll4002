@@ -2,7 +2,7 @@
   <img 
     src="https://i.gifer.com/PDE.gif"
     alt="Jack Nicholson sarcastic clap from The Shining"
-    style="width: 1200px; height: auto;"
+    style="max-width: auto; height: auto;"
   />
 </p>
 
