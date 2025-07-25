@@ -1,9 +1,3 @@
-<p align="center">
-    <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-  />
-</p>
-
-
 <div>
 <h1 align="center">Hi 👋, I'm Thiên Ân</h1>
 <h3 align="center">A passionate Data Science from VietNam</h3>
