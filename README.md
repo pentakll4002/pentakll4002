@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    src="https://i.gifer.com/2GU.gif" 
+    https://i.gifer.com/PDE.gif
     alt="Jack Nicholson sarcastic clap from The Shining"
-    style="width: 1200px; max-width: 100%; height: auto;"
+    style="width: 1200px; height: auto;"
   />
 </p>
 
