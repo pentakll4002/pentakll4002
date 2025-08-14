@@ -55,7 +55,11 @@
   </a>
 
   <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
-    <img src="https://dagshub.com/static/img/dagshub-logo.svg" alt="dagshub" width="40" height="40"/>
+    <img src="https://dagshub.com/img/favicon.svg" alt="DagsHub" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
 </p>
 
