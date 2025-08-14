@@ -14,10 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
@@ -58,22 +54,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
+    <img src="https://dagshub.com/static/img/dagshub-logo.svg" alt="dagshub" width="40" height="40"/>
   </a>
-
-  <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-  </a>
-
-   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
-  </a>
-
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height: 40px; object-fit: contain;" />
-</a>
-
 </p>
 
 
