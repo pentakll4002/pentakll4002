@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hi 👋, I'm Thiên Ân</h1>
-<h3 align="center">A passionate Data Science from VietNam</h3>
+<h3 align="center">A passionate Data Scientist from VietNam</h3>
 
 
 <h3 align="left">Connect with me:</h3>
