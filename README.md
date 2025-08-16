@@ -55,7 +55,7 @@
   </a>
 
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Grafana_logo.svg" alt="Grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
   </a>
 
 </p>
