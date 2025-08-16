@@ -54,9 +54,10 @@
     <img src="https://dagshub.com/img/favicon.svg" alt="DagsHub" width="40" height="40"/>
   </a>
 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Grafana_logo.svg" alt="Grafana" width="40" height="40"/>
   </a>
+
 </p>
 
 
