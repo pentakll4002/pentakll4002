@@ -55,8 +55,9 @@
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Airflow" width="60" height="60"/>
+  <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/airflow_logo.png" alt="Airflow" width="60" height="60"/>
 </a>
+
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="60"/>
