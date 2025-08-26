@@ -55,7 +55,7 @@
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://airflow.apache.org/images/airflow-logo.png" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://techicons.dev/icons/apacheairflow" alt="Apache Airflow logo" width="40" height="40" />
   </a>
 
 </p>
