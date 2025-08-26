@@ -54,38 +54,9 @@
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
 </a>
 
-<!-- Paste trực tiếp vào HTML của bạn -->
-<a href="https://airflow.apache.org/" target="_blank" rel="noopener noreferrer" aria-label="Apache Airflow">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="-60 -60 120 120" width="60" height="60" role="img">
-    <defs>
-      <linearGradient id="g-orange" x1="0" x2="1">
-        <stop offset="0" stop-color="#ff9b2f"/>
-        <stop offset="1" stop-color="#ffbf5a"/>
-      </linearGradient>
-      <linearGradient id="g-blue" x1="0" x2="1">
-        <stop offset="0" stop-color="#00a5ff"/>
-        <stop offset="1" stop-color="#0066cc"/>
-      </linearGradient>
-      <linearGradient id="g-teal" x1="0" x2="1">
-        <stop offset="0" stop-color="#2fe0c9"/>
-        <stop offset="1" stop-color="#00b3a6"/>
-      </linearGradient>
-    </defs>
-
-    <!-- 3 cánh dạng "swirl" -->
-    <g transform="translate(0,0)">
-      <path d="M0,-34 C14,-34 28,-22 32,-6 C34,3 30,12 22,18 C14,24 6,28 -4,28 C-6,28 -8,26 -6,24 C-2,20 4,18 6,14 C8,10 6,6 2,4 C-2,2 -8,0 -12,-4 C-18,-10 -22,-20 -10,-30 C-6,-32 -2,-34 0,-34 Z"
-            fill="url(#g-orange)"/>
-      <g transform="rotate(120)">
-        <path d="M0,-34 C14,-34 28,-22 32,-6 C34,3 30,12 22,18 C14,24 6,28 -4,28 C-6,28 -8,26 -6,24 C-2,20 4,18 6,14 C8,10 6,6 2,4 C-2,2 -8,0 -12,-4 C-18,-10 -22,-20 -10,-30 C-6,-32 -2,-34 0,-34 Z"
-              fill="url(#g-blue)"/>
-      </g>
-      <g transform="rotate(240)">
-        <path d="M0,-34 C14,-34 28,-22 32,-6 C34,3 30,12 22,18 C14,24 6,28 -4,28 C-6,28 -8,26 -6,24 C-2,20 4,18 6,14 C8,10 6,6 2,4 C-2,2 -8,0 -12,-4 C-18,-10 -22,-20 -10,-30 C-6,-32 -2,-34 0,-34 Z"
-              fill="url(#g-teal)"/>
-      </g>
-    </g>
-  </svg>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"
+       alt="Apache Airflow" style="width:60px;height:auto;" />
 </a>
 
 
