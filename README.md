@@ -49,14 +49,15 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
-
-  <a href="https://dagshub.com/" target="_blank" rel="noreferrer">
-    <img src="https://dagshub.com/img/favicon.svg" alt="DagsHub" width="40" height="40"/>
-  </a>
-
+  
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
   </a>
+
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" width="40" height="40" />
+  </a>
+
 
 </p>
 
