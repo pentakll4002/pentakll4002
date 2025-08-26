@@ -54,8 +54,9 @@
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
 </a>
 
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/airflow_logo.png" alt="Apache Airflow" width="60" height="60"/>
+<a href="https://airflow.apache.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/AirflowLogo.svg"
+       alt="Apache Airflow Logo" width="60" height="60" />
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
