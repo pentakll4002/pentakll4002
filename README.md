@@ -51,16 +51,17 @@
   </a>
   
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="60" height="60"/>
+</a>
 
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="80" height="80"/>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="60" height="60"/>
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60"/>
 </a>
+
 
 </p>
 
