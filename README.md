@@ -51,7 +51,7 @@
   </a>
   
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
