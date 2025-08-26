@@ -55,8 +55,13 @@
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://techicons.dev/icons/apacheairflow" alt="Apache Airflow logo" width="40" height="40" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+</a>
+
 
 </p>
 
