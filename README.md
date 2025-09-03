@@ -64,7 +64,7 @@
 </a>
 
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="100" height="100"/>
 </a>
 
 
