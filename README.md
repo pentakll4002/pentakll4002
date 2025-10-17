@@ -49,24 +49,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
-  
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
-</a>
 
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="100" height="100" />
-</a>
-
-
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="60"/>
-</a>
-
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="100" height="100"/>
-</a>
-</p>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="100" height="100" />
+  </a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pentakll4002&show_icons=true&locale=en&layout=compact" alt="pentakll4002" /></p>
