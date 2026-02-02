@@ -55,11 +55,8 @@
   </a>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentakll4002&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentakll4002&bg_color=0d1117&color=79c0ff&line=00c853&point=ff6b6b&area=true&area_color=00c853&hide_border=true"/>
 </p>
-
-
-
 
 </div>
 
