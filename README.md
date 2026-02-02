@@ -56,20 +56,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/pentakll4002">
-    <img title="GitHub Stats" alt="ThienAn's streak" src="https://streak-stats.demolab.com/?user=pentakll4002&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pentakll4002&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentakll4002&layout=compact&theme=react&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pentakll4002">
-    <img alt="Thinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pentakll4002&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/>
-  </a>
-<a href="https://github.com/vphuocthinh2006">
-  <img alt="Thien An Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentakll4002&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-       height="300px"/>
-</a>
+  <img src="https://streak-stats.demolab.com?user=pentakll4002&theme=react&hide_border=true"/>
+</p>
+
 
 </div>
 
