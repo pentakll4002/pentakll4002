@@ -68,6 +68,6 @@
 
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pentakll4002&show_icons=true&locale=en" alt="pentakll4002" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pentakll4002&show_icons=true&locale=en" alt="pentakll4002" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pentakll4002&" alt="pentakll4002" /></p>
