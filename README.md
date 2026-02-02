@@ -56,11 +56,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pentakll4002&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentakll4002&layout=compact&theme=react&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentakll4002&theme=tokyo-night&hide_border=true"/>
 </p>
 
