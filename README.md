@@ -14,67 +14,133 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+      alt="Pandas"
+      title="Pandas"
+      width="40"
+      height="40"
+    />
   </a>
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="PostgreSQL"
+      title="PostgreSQL"
+      width="40"
+      height="40"
+    />
   </a>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="Python"
+      title="Python"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      alt="Scikit-learn"
+      title="Scikit-learn"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img
+      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+      alt="Seaborn"
+      title="Seaborn"
+      width="40"
+      height="40"
+    />
   </a>
 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="TensorFlow"
+      title="TensorFlow"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+      alt="Keras"
+      title="Keras"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="Postman"
+      title="Postman"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      alt="Docker"
+      title="Docker"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="100" height="40" />
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"
+      alt="Apache Airflow"
+      title="Apache Airflow"
+      width="100"
+      height="40"
+    />
   </a>
 
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/snowflake"
-    alt="Snowflake"
-    width="100"
-    height="40"
-  />
-</a>
+    <img
+      src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/snowflake-icon.svg"
+      alt="Snowflake"
+      title="Snowflake"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/dbt"
-    alt="dbt"
-    width="100"
-    height="40"
-  />
-</a>
-  
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/dbt-icon.svg"
+      alt="dbt"
+      title="dbt"
+      width="40"
+      height="40"
+    />
+  </a>
+
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentakll4002&bg_color=0d1117&color=79c0ff&line=00c853&point=ff6b6b&area=true&area_color=00c853&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pentakll4002&bg_color=0d1117&color=79c0ff&line=00c853&point=ff6b6b&area=true&area_color=00c853&hide_border=true"
+  />
 </p>
 
 </div>
