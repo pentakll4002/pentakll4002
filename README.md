@@ -137,15 +137,6 @@
 
 </p>
 
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/databricks/FF3621"
-    alt="Databricks"
-    title="Databricks"
-    width="40"
-    height="40"
-  />
-</a>
 
 <p align="center">
   <img
