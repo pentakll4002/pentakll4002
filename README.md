@@ -135,6 +135,26 @@
     />
   </a>
 
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/prometheus.svg"
+    alt="Prometheus"
+    title="Prometheus"
+    width="40"
+    height="40"
+  />
+</a>
+
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/grafana.svg"
+    alt="Grafana"
+    title="Grafana"
+    width="40"
+    height="40"
+  />
+</a>
+
 </p>
 
 
