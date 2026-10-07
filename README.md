@@ -157,13 +157,6 @@
 
 </p>
 
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pentakll4002&bg_color=0d1117&color=79c0ff&line=00c853&point=ff6b6b&area=true&area_color=00c853&hide_border=true"
-  />
-</p>
-
 </div>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pentakll4002&show_icons=true&locale=en" alt="pentakll4002" /></p> -->
